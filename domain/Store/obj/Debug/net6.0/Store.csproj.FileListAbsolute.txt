@@ -1,0 +1,12 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\bin\Debug\net6.0\Store.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\bin\Debug\net6.0\Store.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\bin\Debug\net6.0\Store.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\Store.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\Store.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\refint\Store.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\Store.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\domain\Store\obj\Debug\net6.0\ref\Store.dll

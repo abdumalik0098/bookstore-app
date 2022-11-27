@@ -1,0 +1,15 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\bin\Debug\net6.0\Store.Memory.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\bin\Debug\net6.0\Store.Memory.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\bin\Debug\net6.0\Store.Memory.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\bin\Debug\net6.0\Store.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\bin\Debug\net6.0\Store.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.csproj.CopyComplete
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\refint\Store.Memory.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\Store.Memory.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\bookstore\infrastucture\Store.Memory\obj\Debug\net6.0\ref\Store.Memory.dll

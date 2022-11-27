@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\presentation\\Store.Web\\Store.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\Store.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\Store.csproj",
+        "projectName": "Store",
+        "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\Store.csproj",
+        "packagesPath": "C:\\Users\\Fisabeel\\.nuget\\packages\\",
+        "outputPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fisabeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\infrastucture\\Store.Memory\\Store.Memory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\infrastucture\\Store.Memory\\Store.Memory.csproj",
+        "projectName": "Store.Memory",
+        "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\infrastucture\\Store.Memory\\Store.Memory.csproj",
+        "packagesPath": "C:\\Users\\Fisabeel\\.nuget\\packages\\",
+        "outputPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\infrastucture\\Store.Memory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fisabeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\Store.csproj": {
+                "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\Store.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\presentation\\Store.Web\\Store.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\presentation\\Store.Web\\Store.Web.csproj",
+        "projectName": "Store.Web",
+        "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\presentation\\Store.Web\\Store.Web.csproj",
+        "packagesPath": "C:\\Users\\Fisabeel\\.nuget\\packages\\",
+        "outputPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\presentation\\Store.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fisabeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\Store.csproj": {
+                "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\domain\\Store\\Store.csproj"
+              },
+              "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\infrastucture\\Store.Memory\\Store.Memory.csproj": {
+                "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\bookstore\\infrastucture\\Store.Memory\\Store.Memory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
